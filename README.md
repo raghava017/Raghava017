@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Veera Raghava Ankireddypalle
+# 👋 Hi, I'm Raghava Ankireddypalle
 
 <p align="center">
   <b>DevOps Engineer | Azure DevOps | AWS | CI/CD | Linux | Automation</b>
