@@ -1,318 +1,95 @@
-<div align="center">
-
-# 👋 Hi, I'm **Veera Raghava Ankireddypalle**
-
-### 🚀 DevOps Engineer | Azure DevOps | AWS | CI/CD | Linux | Automation
-
-<img src="https://komarev.com/ghpvc/?username=raghava017&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-I'm a **DevOps Engineer** passionate about automating software delivery, building scalable CI/CD pipelines, and deploying applications on cloud platforms.
-
-- ☁️ Experienced with **Microsoft Azure** and **Amazon Web Services (AWS)**
-- 🚀 Building **CI/CD Pipelines** using Azure DevOps & GitHub Actions
-- 🐳 Containerizing and deploying applications with Docker
-- 🖥️ Deploying applications on **Ubuntu**, **RHEL**, and **Windows IIS**
-- ⚙️ Automating tasks with **Shell & Bash Scripting**
-- 📚 Currently expanding my AWS DevOps and Infrastructure as Code knowledge
-- ✍️ I regularly share my learning through technical blogs
-
----
-
-# 🚀 Tech Stack
-
-## ☁️ Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,aws" />
-</p>
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-
----
-
-## 🚀 CI/CD & Version Control
-
-<p align="left">
-
-<a href="https://azure.microsoft.com/products/devops">
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="48" alt="Azure DevOps"/>
-</a>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=githubactions" height="48"/>
-
-&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git" height="48"/>
-
-</p>
-
-- Azure DevOps Pipelines (Classic & YAML)
-- Azure Release Pipelines
-- GitHub Actions
-- Multi-stage CI/CD Pipelines
-- Build Once, Deploy Multiple Environments
-- Release Management
-- Deployment Automation
-- Git
-
----
-
-## 🐳 Containers
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-- Docker
-- Amazon ECS
-- Amazon ECR
-
----
-
-## 🖥️ Operating Systems
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-- Ubuntu
-- Red Hat Enterprise Linux (RHEL)
-- Windows Server
-
----
-
-## 🌐 Web Servers
-
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/nginx/009639" width="45"/>
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/apachetomcat/F8DC75" width="45"/>
-
-&nbsp;&nbsp;
-
-<img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="45"/>
-
-</p>
-
-- IIS
-- Nginx
-- Apache Tomcat
-
----
-
-## 📦 Build Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=maven,gradle,npm,nodejs,dotnet"/>
-
-</p>
-
-As a DevOps Engineer, I use these tools for **build automation, packaging, and deployment**.
-
-- Maven
-- Gradle
-- npm
-- .NET CLI
-- Node.js Build Process
-- Python Build Basics
-
-> I work with build tools for CI/CD automation rather than application development.
-
----
-
-## 🔐 DevSecOps
-
-- SonarQube
-- Checkmarx
-- Trivy
-- Dependency Scanning
-- Secure CI/CD Practices
-
----
-
-## 📊 Monitoring
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus"/>
-
-</p>
-
-- Grafana
-- Prometheus
-- Azure Monitor
-- Azure Application Insights
-
----
-
-# 💼 Areas of Experience
-
-- Azure DevOps
-- GitHub Actions
-- Azure Cloud
-- AWS Cloud
-- Amazon ECS
-- Amazon ECR
-- Docker
-- CI/CD Pipeline Automation
-- IIS Deployments
-- Linux Server Administration
-- Shell & Bash Scripting
-- Build & Release Automation
-- Application Deployments
-- DevSecOps Integration
-- Production Deployment Strategies
-
----
-
-# 📚 Currently Learning
-
-- AWS DevOps
-- CloudFormation
-- Infrastructure as Code (IaC)
-- Production CI/CD Best Practices
-- Cloud Security
-- DevSecOps
-
----
-
-# ✍️ Technical Blogs
-
-### 📝 Medium
-
-➡️ https://medium.com/@veeraraghava077
-
-### ✍️ Hashnode
-
-➡️ https://raghav0617.hashnode.dev
-
-I regularly write about:
-
-- Azure DevOps
-- AWS
-- Docker
-- Linux
-- Cloud
-- CI/CD
-- DevOps Best Practices
-
----
-
-# 📈 GitHub Statistics
+# 👋 Hi, I'm Veera Raghava Ankireddypalle
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raghava017&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghava017&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <b>DevOps Engineer | Azure DevOps | AWS | CI/CD | Linux | Automation</b>
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=raghava017&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://www.linkedin.com/in/veeraraghavaankireddypalle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@veeraraghava077"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://raghav0617.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="mailto:veeraraghava077@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+### 💫 About Me
+
+I'm a passionate **DevOps Engineer** focused on automating software delivery, building scalable CI/CD pipelines, and deploying resilient applications across cloud environments.
+
+* ☁️ **Cloud Platforms:** Azure & AWS
+* 🚀 **CI/CD:** Azure DevOps Pipelines (Classic & YAML) & GitHub Actions
+* 🐳 **Containerization:** Docker, Amazon ECS & ECR
+* 🖥️ **OS & Administration:** Ubuntu, RHEL & Windows Server (IIS)
+* 🌐 **Web Servers:** IIS, Nginx & Apache Tomcat
+* 📦 **Build Automation:** Maven, Gradle, npm, .NET CLI
+* 🔐 **DevSecOps & Code Quality:** SonarQube, Checkmarx & Trivy
+* 📊 **Observability:** Grafana, Prometheus & Azure Monitor
+* ✍️ **Technical Writing:** Blogger on Medium & Hashnode
+
+---
+
+### 🚀 Tech Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white) |
+| **CI/CD** | ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Amazon ECS](https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white) |
+| **Operating Systems** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white) ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) |
+| **Web Servers** | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black) |
+| **Build Tools** | ![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| **DevSecOps** | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Checkmarx](https://img.shields.io/badge/Checkmarx-5B2B82?style=flat-square) ![Trivy](https://img.shields.io/badge/Trivy-1A1A1A?style=flat-square) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
+
+---
+
+### 📚 Currently Learning
+
+* 🛠️ Advanced **AWS DevOps** Practices
+* 📜 **Infrastructure as Code** with AWS CloudFormation & Terraform
+* 🔒 Deep-dive **DevSecOps** pipeline integrations
+* 🏗️ Building resilient, enterprise **Production-grade CI/CD** solutions
+
+---
+
+### ✍️ Technical Blogs
+
+Check out my latest DevOps articles and tutorials:
+
+* 📝 **Medium:** [medium.com/@veeraraghava077](https://medium.com/@veeraraghava077)
+* 🚀 **Hashnode:** [raghav0617.hashnode.dev](https://raghav0617.hashnode.dev)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=raghava017&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=raghava017&show_icons=true&theme=tokyonight&hide_border=true" alt="Veera Raghava's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghava017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
----
-
-# 📊 GitHub Contribution Graph
+#### 📊 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghava017&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghava017&theme=tokyonight" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
-# 📌 Featured Skills
+### 🤝 Connect With Me
 
-| Category | Technologies |
-|-----------|--------------|
-| ☁️ Cloud | Azure, AWS |
-| 🚀 CI/CD | Azure DevOps, GitHub Actions |
-| 🐳 Containers | Docker, Amazon ECS, Amazon ECR |
-| 🖥️ Operating Systems | Ubuntu, RHEL, Windows Server |
-| 🌐 Web Servers | IIS, Nginx, Apache Tomcat |
-| ⚙️ Automation | Bash, Shell Scripting |
-| 📦 Build Tools | Maven, Gradle, npm, .NET CLI |
-| 🔐 DevSecOps | SonarQube, Checkmarx, Trivy |
-| 📊 Monitoring | Grafana, Prometheus, Azure Monitor |
-
----
-
-# 🌟 Featured Repositories
-
-- 🚀 Azure DevOps Pipeline Templates
-- ⚙️ GitHub Actions Workflows
-- ☁️ AWS ECS & ECR Examples
-- 🐳 Docker Projects
-- 🖥️ IIS Deployment Automation
-- 🐧 Linux & Bash Scripts
-- 🌐 Nginx Configurations
-- 🔐 DevSecOps Integrations
-- 📜 CloudFormation Templates
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/raghava017">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/veeraraghavaankireddypalle/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@veeraraghava077">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="https://raghav0617.hashnode.dev">
-<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/raghava017"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/veeraraghavaankireddypalle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@veeraraghava077"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://raghav0617.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 </p>
 
----
-
-# 📫 Contact
-
-📧 **veeraraghava077@gmail.com**
+📫 **Direct Contact:** [veeraraghava077@gmail.com](mailto:veeraraghava077@gmail.com)
 
 ---
 
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-### *"Automating deployments, improving reliability, and continuously learning modern cloud technologies."*
-
-</div>
+<p align="center">
+  ⭐ <i>Thanks for visiting my profile!</i>
+</p>
