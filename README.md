@@ -65,14 +65,14 @@ Check out my latest DevOps articles and tutorials:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghava017&show_icons=true&theme=tokyonight&hide_border=true" alt="Veera Raghava's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghava017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=raghava017&show_icons=true&theme=tokyonight&hide_border=true" alt="Veera Raghava's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raghava017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 #### 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghava017&theme=tokyonight" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raghava017&theme=tokyonight&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
